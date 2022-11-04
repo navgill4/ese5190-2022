@@ -1,7 +1,8 @@
 ### `/lab2b/part01/link`
-none
+https://github.com/navgill4/ESE5190_Lab2B/tree/main/sec01
 ### `/lab2b/part01/status`
-not-started
+in progress
+https://github.com/navgill4/ESE5190_Lab2B/tree/main/sec02
 ### `/lab2b/part02/link`
 none
 ### `/lab2b/part02/status`
